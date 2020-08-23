@@ -1,0 +1,58 @@
+
+body{
+    background-color: #9F9F9F;
+}
+
+
+.navbar img{
+    width: 40px;
+}
+
+.navbar li {
+    list-style: none;
+}
+/* .width{
+    width: 870px;
+} */
+            /* Top-Player */
+.player img{
+    width: 56px;
+}
+/* .mohammad::before {
+	position: absolute;
+	content: "";
+	background-image: linear-gradient(45deg, rgb(233, 212, 27), mediumvioletred);
+	bottom: 0;
+	right: 0;
+	height: 6px;
+	width: 700px;
+	border-radius: 10px;
+	left: 0;
+	margin: auto;
+} */
+
+            /* Top-Blog */
+.blog img{
+    width: 177px;
+}
+.blog li{
+    list-style:none;
+}
+            /* lates-course */
+.mini-icon{
+    width: 12px;
+}
+.mini-icon-1{
+    width: 20px;
+}
+.mini-bg{
+    background-color: #FEE5DF;
+    border-radius: 15%;
+}
+.card-deck .card {
+	box-shadow: 3px 3px 20px lightgray;
+	border-radius: 6%;
+}
+.card-body {
+	padding: 20px 0;
+}
